@@ -84,7 +84,7 @@ print(sortedUsers)
 
 
 //===================================================================
-//MARK: - MAP
+//MARK: - MAP FUNCTION
 //===================================================================
 
 // Use map to loop over a collection and apply the same operation to each element in the collection. The map function returns an array containing the results of applying a mapping or transform function to each item.

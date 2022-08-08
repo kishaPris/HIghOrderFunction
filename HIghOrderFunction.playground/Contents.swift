@@ -14,7 +14,7 @@ import UIKit
 
 
 //===================================================================
-//MARK: - SORT FUNCTION1
+//MARK: - SORT FUNCTION2
 //===================================================================
 // With sort() You can sort any mutable collection of elements that conform to the Comparable protocol by calling this method. In this case Elements are sorted in ascending order.
 
